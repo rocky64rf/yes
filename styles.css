@@ -1,0 +1,17 @@
+p{
+   color:#ffffe0;
+}
+ 
+.my-css-rule {background:#2d3c64;
+   font-size: 1.5rem;
+}
+ body{
+   background-color:#5A1515 ;
+ }
+ 
+ .preview{
+   border-style: dashed;
+ }
+ .example{
+   border-style: solid;
+ }
